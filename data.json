@@ -1,9 +1,9 @@
 {
-   "newVersion":"1.4",
+   "newVersion":"1.5",
    "apkUrl":"https://github.com/ismailukman/Update/blob/main/KigraPOS.apk?raw=true",
    "versionNotes":[
       "- Kigra POS App Bug fixed",
-      "- Transaction Ids",
-      "- Auto Update Test"
+      "- Update Icon",
+      "- KIGRA Logo"
    ]
 }
