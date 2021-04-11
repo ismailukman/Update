@@ -1,9 +1,9 @@
 {
-   "newVersion":"1.6",
+   "newVersion":"1.7",
    "apkUrl":"https://github.com/ismailukman/Update/blob/main/KigraPOS.apk?raw=true",
    "versionNotes":[
-      "- Kigra POS App Bug fixed",
-      "- Update Test",
-      "- Library"
+      "- Centralization of endpoints ",
+      "- SSLPeerUnverifiedException for hostname backend.kigra.gov.ng",
+      "- Floating update button"
    ]
 }
