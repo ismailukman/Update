@@ -1,8 +1,8 @@
 {
-   "newVersion":"1.9",
+   "newVersion":"1.0",
    "apkUrl":"https://github.com/ismailukman/Update/blob/main/KigraPOS.apk?raw=true",
    "versionNotes":[
-      "- Logo Update ",
-      "- Splash screen fixed"
+      "- Important UI update ",
+      "- API update"
    ]
 }
