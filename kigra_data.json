@@ -1,9 +1,9 @@
 {
-   "newVersion":"1.11",
+   "newVersion":"1.12",
    "apkUrl":"https://github.com/ismailukman/Update/blob/main/KigraPOS.apk?raw=true",
    "versionNotes":[
-      "- Auto update",
-      "- Sam signature ",
-      "- Formal Mode Only"
+      "- New Logo",
+      "- Receipt update ",
+      "- Non-Formal Mode Only"
    ]
 }
