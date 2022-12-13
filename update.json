@@ -1,8 +1,9 @@
 {
-  "newVersion": "2.2",
-  "apkUrl": "https://github.com/ismailukman/Update/blob/main/kigraT.apk?raw=true",
+  "latestVersion": "1.15",
+  "latestVersionCode": "3",
+  "url": "https://github.com/ismailukman/Update/blob/main/kigraPOS.apk?raw=true",
   "versionNotes": [
     "- Bug fixes",
-    "- Kigra test Try"
+    "- Kigra 2.0 test Try"
   ]
 }
